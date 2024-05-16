@@ -1,0 +1,16 @@
+## web chat app ##
+-> focusing on last message on screen after sending the message ✅
+-> convert date to normal date and time ✅
+-> add profile icon as initial letter of user to message ✅
+-> current loggedin user should see his messages to right side of the ui page ✅
+-> edit and delete option to message by creating a dropdown or popup - and popup for conforming ✅
+-> add sent tick mark to message ✅
+-> add pop-up functionality ✅
+-> add enter button functionality to send message ✅
+-> design login page ui ✅
+-> design regestration page ui ✅
+-> make baseurl changes in frontend ✅
+-> add show/hide password button functionality ✅
+-> make responsive functionality (mobile & largescreen) ✅
+-> deploy backend ✅
+-> deploy frontend ✅

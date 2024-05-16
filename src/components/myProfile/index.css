@@ -1,0 +1,29 @@
+.myprofile-container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 94vh;
+}
+.loader-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.profile-username {
+  font-weight: bold;
+  font-family: "Roboto";
+}
+.welcome-heading {
+  font-family: "Roboto";
+  margin-bottom: 30px;
+}
+.wave-icon-container {
+  text-align: center;
+}
+.wave-icon {
+  margin-left: 10px;
+}
